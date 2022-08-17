@@ -1,4 +1,4 @@
-baseURL = 'https://apl.lislis.xyz'
+baseURL = 'https://lislis.github.io/apl/'
 languageCode = 'en-us'
 title = 'Audience Participation Lab'
 theme = "hugo-tranquilpeak-theme"
